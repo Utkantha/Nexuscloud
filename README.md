@@ -1,4 +1,4 @@
-# MySky Drive Monorepo
+# Nexus cloud
 
 A modern cloud drive application with advanced file and folder sharing, built as a monorepo with separate `frontend` (React + Vite + TypeScript) and `backend` (Node.js + Express + MongoDB) projects.
 
