@@ -10,7 +10,7 @@ function App() {
 
   return (
     <ThemeProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/Nexuscloud">
         <GoogleOAuthProvider clientId={import.meta.env.VITE_GOOGLE_CLIENT_ID}>
           <AuthInitializer />
           <MainRoutes />
